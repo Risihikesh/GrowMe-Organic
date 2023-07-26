@@ -24,7 +24,7 @@ const FirstPage: React.FC = () => {
 
   return (
     <Box display="flex" flexDirection="column" alignItems="center" mt={10}>
-      <Typography variant="h4">First Page</Typography>
+      <Typography variant="h4">Fill the form to move to the next page</Typography>
       <TextField
         label="Name"
         name="name"
